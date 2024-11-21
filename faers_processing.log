@@ -1,0 +1,1515 @@
+2024-11-14 22:27:15,323 - INFO - Processing quarter: 2021Q1
+2024-11-14 22:27:15,350 - ERROR - Error loading demo file C:/Users/Eason/Downloads/CSC461FinalProject/data/raw\faers_ascii_2021Q1\ASCII_2021Q1\demo21q1.pdf: Error tokenizing data. C error: Expected 1 fields in line 9, saw 2
+
+2024-11-14 22:27:15,350 - ERROR - Error processing quarter faers_ascii_2021Q1: Error tokenizing data. C error: Expected 1 fields in line 9, saw 2
+
+2024-11-14 22:27:15,350 - INFO - Processing quarter: 2021Q2
+2024-11-14 22:27:15,387 - ERROR - Error loading demo file C:/Users/Eason/Downloads/CSC461FinalProject/data/raw\faers_ascii_2021Q2\ASCII_2021Q2\demo21q2.pdf: Error tokenizing data. C error: Expected 1 fields in line 19, saw 2
+
+2024-11-14 22:27:15,387 - ERROR - Error processing quarter faers_ascii_2021Q2: Error tokenizing data. C error: Expected 1 fields in line 19, saw 2
+
+2024-11-14 22:27:15,388 - WARNING - Skipping faers_ascii_2021Q3: ASCII folder not found
+2024-11-14 22:27:15,388 - WARNING - Skipping faers_ascii_2021Q4: ASCII folder not found
+2024-11-14 22:27:15,388 - WARNING - Skipping faers_ascii_2022Q1: ASCII folder not found
+2024-11-14 22:27:15,388 - WARNING - Skipping faers_ascii_2022Q2: ASCII folder not found
+2024-11-14 22:27:15,388 - INFO - Processing quarter: 2022Q3
+2024-11-14 22:27:15,410 - ERROR - Error loading demo file C:/Users/Eason/Downloads/CSC461FinalProject/data/raw\faers_ascii_2022Q3\ASCII_2022Q3\DEMO22Q3.pdf: Error tokenizing data. C error: Expected 1 fields in line 46, saw 2
+
+2024-11-14 22:27:15,410 - ERROR - Error processing quarter faers_ascii_2022Q3: Error tokenizing data. C error: Expected 1 fields in line 46, saw 2
+
+2024-11-14 22:27:15,411 - INFO - Processing quarter: 2022Q4
+2024-11-14 22:27:15,429 - ERROR - Error loading demo file C:/Users/Eason/Downloads/CSC461FinalProject/data/raw\faers_ascii_2022Q4\ASCII_2022Q4\DEMO22Q4.pdf: Error tokenizing data. C error: Expected 1 fields in line 32, saw 2
+
+2024-11-14 22:27:15,429 - ERROR - Error processing quarter faers_ascii_2022Q4: Error tokenizing data. C error: Expected 1 fields in line 32, saw 2
+
+2024-11-14 22:27:15,430 - INFO - Processing quarter: 2023Q1
+2024-11-14 22:27:15,448 - ERROR - Error loading demo file C:/Users/Eason/Downloads/CSC461FinalProject/data/raw\faers_ascii_2023Q1\ASCII_2023Q1\DEMO23Q1.pdf: Error tokenizing data. C error: Expected 1 fields in line 31, saw 2
+
+2024-11-14 22:27:15,448 - ERROR - Error processing quarter faers_ascii_2023Q1: Error tokenizing data. C error: Expected 1 fields in line 31, saw 2
+
+2024-11-14 22:27:15,449 - INFO - Processing quarter: 2023Q2
+2024-11-14 22:27:15,474 - ERROR - Error loading demo file C:/Users/Eason/Downloads/CSC461FinalProject/data/raw\faers_ascii_2023Q2\ASCII_2023Q2\DEMO23Q2.pdf: Error tokenizing data. C error: Expected 1 fields in line 31, saw 2
+
+2024-11-14 22:27:15,474 - ERROR - Error processing quarter faers_ascii_2023Q2: Error tokenizing data. C error: Expected 1 fields in line 31, saw 2
+
+2024-11-14 22:27:15,474 - INFO - Processing quarter: 2023Q3
+2024-11-14 22:27:15,490 - ERROR - Error loading demo file C:/Users/Eason/Downloads/CSC461FinalProject/data/raw\faers_ascii_2023Q3\ASCII_2023Q3\DEMO23Q3.pdf: Error tokenizing data. C error: Expected 1 fields in line 29, saw 2
+
+2024-11-14 22:27:15,490 - ERROR - Error processing quarter faers_ascii_2023Q3: Error tokenizing data. C error: Expected 1 fields in line 29, saw 2
+
+2024-11-14 22:27:15,490 - INFO - Processing quarter: 2023Q4
+2024-11-14 22:27:15,511 - ERROR - Error loading demo file C:/Users/Eason/Downloads/CSC461FinalProject/data/raw\faers_ascii_2023Q4\ASCII_2023Q4\DEMO23Q4.pdf: Error tokenizing data. C error: Expected 1 fields in line 32, saw 2
+
+2024-11-14 22:27:15,512 - ERROR - Error processing quarter faers_ascii_2023Q4: Error tokenizing data. C error: Expected 1 fields in line 32, saw 2
+
+2024-11-14 22:27:15,512 - INFO - Processing quarter: 2024Q1
+2024-11-14 22:27:15,531 - ERROR - Error loading demo file C:/Users/Eason/Downloads/CSC461FinalProject/data/raw\faers_ascii_2024Q1\ASCII_2024Q1\DEMO24Q1.pdf: Error tokenizing data. C error: Expected 1 fields in line 30, saw 2
+
+2024-11-14 22:27:15,531 - ERROR - Error processing quarter faers_ascii_2024Q1: Error tokenizing data. C error: Expected 1 fields in line 30, saw 2
+
+2024-11-14 22:27:15,531 - INFO - Processing quarter: 2024Q2
+2024-11-14 22:27:15,576 - ERROR - Error loading demo file C:/Users/Eason/Downloads/CSC461FinalProject/data/raw\faers_ascii_2024Q2\ASCII_2024Q2\DEMO24Q2.pdf: Error tokenizing data. C error: Expected 1 fields in line 48, saw 2
+
+2024-11-14 22:27:15,576 - ERROR - Error processing quarter faers_ascii_2024Q2: Error tokenizing data. C error: Expected 1 fields in line 48, saw 2
+
+2024-11-14 22:27:15,576 - INFO - Processing quarter: 2024Q3
+2024-11-14 22:27:15,612 - ERROR - Error loading demo file C:/Users/Eason/Downloads/CSC461FinalProject/data/raw\faers_ascii_2024Q3\ASCII_2024Q3\DEMO24Q3.pdf: Error tokenizing data. C error: Expected 1 fields in line 29, saw 2
+
+2024-11-14 22:27:15,612 - ERROR - Error processing quarter faers_ascii_2024Q3: Error tokenizing data. C error: Expected 1 fields in line 29, saw 2
+
+2024-11-14 22:27:15,612 - INFO - Merging data from all quarters...
+2024-11-14 22:27:15,612 - ERROR - Error merging data: No objects to concatenate
+2024-11-14 22:27:15,612 - ERROR - Main process failed: No objects to concatenate
+2024-11-14 22:37:01,287 - INFO - Starting FAERS data processing
+2024-11-14 22:37:01,288 - INFO - Processing quarter: 2021Q1
+2024-11-14 22:37:09,348 - INFO - Successfully processed 2021Q1
+2024-11-14 22:37:09,348 - INFO - Processing quarter: 2021Q2
+2024-11-14 22:37:17,376 - INFO - Successfully processed 2021Q2
+2024-11-14 22:37:17,376 - INFO - Processing quarter: 2022Q3
+2024-11-14 22:37:17,380 - ERROR - Error loading demographics file C:/Users/Eason/Downloads/CSC461FinalProject/data/raw\faers_ascii_2022Q3\ASCII_2022Q3\DEMO22Q3.pdf: Error tokenizing data. C error: Expected 1 fields in line 46, saw 2
+
+2024-11-14 22:37:17,381 - ERROR - Failed to load file with both encodings: 'charmap' codec can't decode byte 0x90 in position 782: character maps to <undefined>
+2024-11-14 22:37:17,381 - ERROR - Error processing 2022Q3: 'charmap' codec can't decode byte 0x90 in position 782: character maps to <undefined>
+2024-11-14 22:37:17,381 - INFO - Processing quarter: 2022Q4
+2024-11-14 22:37:17,384 - ERROR - Error loading demographics file C:/Users/Eason/Downloads/CSC461FinalProject/data/raw\faers_ascii_2022Q4\ASCII_2022Q4\DEMO22Q4.pdf: Error tokenizing data. C error: Expected 1 fields in line 32, saw 2
+
+2024-11-14 22:37:17,384 - ERROR - Failed to load file with both encodings: 'charmap' codec can't decode byte 0x90 in position 782: character maps to <undefined>
+2024-11-14 22:37:17,384 - ERROR - Error processing 2022Q4: 'charmap' codec can't decode byte 0x90 in position 782: character maps to <undefined>
+2024-11-14 22:37:17,384 - INFO - Processing quarter: 2023Q1
+2024-11-14 22:37:17,388 - ERROR - Error loading demographics file C:/Users/Eason/Downloads/CSC461FinalProject/data/raw\faers_ascii_2023Q1\ASCII_2023Q1\DEMO23Q1.pdf: Error tokenizing data. C error: Expected 1 fields in line 31, saw 2
+
+2024-11-14 22:37:17,388 - ERROR - Failed to load file with both encodings: 'charmap' codec can't decode byte 0x90 in position 782: character maps to <undefined>
+2024-11-14 22:37:17,388 - ERROR - Error processing 2023Q1: 'charmap' codec can't decode byte 0x90 in position 782: character maps to <undefined>
+2024-11-14 22:37:17,388 - INFO - Processing quarter: 2023Q2
+2024-11-14 22:37:17,391 - ERROR - Error loading demographics file C:/Users/Eason/Downloads/CSC461FinalProject/data/raw\faers_ascii_2023Q2\ASCII_2023Q2\DEMO23Q2.pdf: Error tokenizing data. C error: Expected 1 fields in line 31, saw 2
+
+2024-11-14 22:37:17,392 - ERROR - Failed to load file with both encodings: 'charmap' codec can't decode byte 0x81 in position 627: character maps to <undefined>
+2024-11-14 22:37:17,392 - ERROR - Error processing 2023Q2: 'charmap' codec can't decode byte 0x81 in position 627: character maps to <undefined>
+2024-11-14 22:37:17,392 - INFO - Processing quarter: 2023Q3
+2024-11-14 22:37:17,395 - ERROR - Error loading demographics file C:/Users/Eason/Downloads/CSC461FinalProject/data/raw\faers_ascii_2023Q3\ASCII_2023Q3\DEMO23Q3.pdf: Error tokenizing data. C error: Expected 1 fields in line 29, saw 2
+
+2024-11-14 22:37:17,396 - ERROR - Failed to load file with both encodings: 'charmap' codec can't decode byte 0x90 in position 782: character maps to <undefined>
+2024-11-14 22:37:17,396 - ERROR - Error processing 2023Q3: 'charmap' codec can't decode byte 0x90 in position 782: character maps to <undefined>
+2024-11-14 22:37:17,396 - INFO - Processing quarter: 2023Q4
+2024-11-14 22:37:17,400 - ERROR - Error loading demographics file C:/Users/Eason/Downloads/CSC461FinalProject/data/raw\faers_ascii_2023Q4\ASCII_2023Q4\DEMO23Q4.pdf: Error tokenizing data. C error: Expected 1 fields in line 32, saw 2
+
+2024-11-14 22:37:17,400 - ERROR - Failed to load file with both encodings: 'charmap' codec can't decode byte 0x90 in position 782: character maps to <undefined>
+2024-11-14 22:37:17,400 - ERROR - Error processing 2023Q4: 'charmap' codec can't decode byte 0x90 in position 782: character maps to <undefined>
+2024-11-14 22:37:17,400 - INFO - Processing quarter: 2024Q1
+2024-11-14 22:37:17,405 - ERROR - Error loading demographics file C:/Users/Eason/Downloads/CSC461FinalProject/data/raw\faers_ascii_2024Q1\ASCII_2024Q1\DEMO24Q1.pdf: Error tokenizing data. C error: Expected 1 fields in line 30, saw 2
+
+2024-11-14 22:37:17,405 - ERROR - Failed to load file with both encodings: 'charmap' codec can't decode byte 0x90 in position 782: character maps to <undefined>
+2024-11-14 22:37:17,405 - ERROR - Error processing 2024Q1: 'charmap' codec can't decode byte 0x90 in position 782: character maps to <undefined>
+2024-11-14 22:37:17,405 - INFO - Processing quarter: 2024Q2
+2024-11-14 22:37:17,409 - ERROR - Error loading demographics file C:/Users/Eason/Downloads/CSC461FinalProject/data/raw\faers_ascii_2024Q2\ASCII_2024Q2\DEMO24Q2.pdf: Error tokenizing data. C error: Expected 1 fields in line 48, saw 2
+
+2024-11-14 22:37:17,409 - ERROR - Failed to load file with both encodings: 'charmap' codec can't decode byte 0x90 in position 782: character maps to <undefined>
+2024-11-14 22:37:17,409 - ERROR - Error processing 2024Q2: 'charmap' codec can't decode byte 0x90 in position 782: character maps to <undefined>
+2024-11-14 22:37:17,410 - INFO - Processing quarter: 2024Q3
+2024-11-14 22:37:17,414 - ERROR - Error loading demographics file C:/Users/Eason/Downloads/CSC461FinalProject/data/raw\faers_ascii_2024Q3\ASCII_2024Q3\DEMO24Q3.pdf: Error tokenizing data. C error: Expected 1 fields in line 29, saw 2
+
+2024-11-14 22:37:17,415 - ERROR - Failed to load file with both encodings: 'charmap' codec can't decode byte 0x90 in position 782: character maps to <undefined>
+2024-11-14 22:37:17,415 - ERROR - Error processing 2024Q3: 'charmap' codec can't decode byte 0x90 in position 782: character maps to <undefined>
+2024-11-14 22:37:17,415 - INFO - Concatenating quarterly data...
+2024-11-14 22:37:17,757 - INFO - Merging datasets...
+2024-11-14 22:37:34,361 - INFO - Starting FAERS data processing
+2024-11-14 22:37:34,361 - INFO - Processing quarter: 2021Q1
+2024-11-14 22:37:42,002 - INFO - Successfully processed 2021Q1
+2024-11-14 22:37:42,002 - INFO - Processing quarter: 2021Q2
+2024-11-14 22:37:49,928 - INFO - Successfully processed 2021Q2
+2024-11-14 22:37:49,928 - INFO - Processing quarter: 2022Q3
+2024-11-14 22:37:49,932 - ERROR - Error loading demographics file C:/Users/Eason/Downloads/CSC461FinalProject/data/raw\faers_ascii_2022Q3\ASCII_2022Q3\DEMO22Q3.pdf: Error tokenizing data. C error: Expected 1 fields in line 46, saw 2
+
+2024-11-14 22:37:49,933 - ERROR - Failed to load file with both encodings: 'charmap' codec can't decode byte 0x90 in position 782: character maps to <undefined>
+2024-11-14 22:37:49,933 - ERROR - Error processing 2022Q3: 'charmap' codec can't decode byte 0x90 in position 782: character maps to <undefined>
+2024-11-14 22:37:49,933 - INFO - Processing quarter: 2022Q4
+2024-11-14 22:37:49,936 - ERROR - Error loading demographics file C:/Users/Eason/Downloads/CSC461FinalProject/data/raw\faers_ascii_2022Q4\ASCII_2022Q4\DEMO22Q4.pdf: Error tokenizing data. C error: Expected 1 fields in line 32, saw 2
+
+2024-11-14 22:37:49,936 - ERROR - Failed to load file with both encodings: 'charmap' codec can't decode byte 0x90 in position 782: character maps to <undefined>
+2024-11-14 22:37:49,936 - ERROR - Error processing 2022Q4: 'charmap' codec can't decode byte 0x90 in position 782: character maps to <undefined>
+2024-11-14 22:37:49,936 - INFO - Processing quarter: 2023Q1
+2024-11-14 22:37:49,939 - ERROR - Error loading demographics file C:/Users/Eason/Downloads/CSC461FinalProject/data/raw\faers_ascii_2023Q1\ASCII_2023Q1\DEMO23Q1.pdf: Error tokenizing data. C error: Expected 1 fields in line 31, saw 2
+
+2024-11-14 22:37:49,940 - ERROR - Failed to load file with both encodings: 'charmap' codec can't decode byte 0x90 in position 782: character maps to <undefined>
+2024-11-14 22:37:49,940 - ERROR - Error processing 2023Q1: 'charmap' codec can't decode byte 0x90 in position 782: character maps to <undefined>
+2024-11-14 22:37:49,940 - INFO - Processing quarter: 2023Q2
+2024-11-14 22:37:49,943 - ERROR - Error loading demographics file C:/Users/Eason/Downloads/CSC461FinalProject/data/raw\faers_ascii_2023Q2\ASCII_2023Q2\DEMO23Q2.pdf: Error tokenizing data. C error: Expected 1 fields in line 31, saw 2
+
+2024-11-14 22:37:49,944 - ERROR - Failed to load file with both encodings: 'charmap' codec can't decode byte 0x81 in position 627: character maps to <undefined>
+2024-11-14 22:37:49,944 - ERROR - Error processing 2023Q2: 'charmap' codec can't decode byte 0x81 in position 627: character maps to <undefined>
+2024-11-14 22:37:49,944 - INFO - Processing quarter: 2023Q3
+2024-11-14 22:37:49,947 - ERROR - Error loading demographics file C:/Users/Eason/Downloads/CSC461FinalProject/data/raw\faers_ascii_2023Q3\ASCII_2023Q3\DEMO23Q3.pdf: Error tokenizing data. C error: Expected 1 fields in line 29, saw 2
+
+2024-11-14 22:37:49,948 - ERROR - Failed to load file with both encodings: 'charmap' codec can't decode byte 0x90 in position 782: character maps to <undefined>
+2024-11-14 22:37:49,948 - ERROR - Error processing 2023Q3: 'charmap' codec can't decode byte 0x90 in position 782: character maps to <undefined>
+2024-11-14 22:37:49,948 - INFO - Processing quarter: 2023Q4
+2024-11-14 22:37:49,951 - ERROR - Error loading demographics file C:/Users/Eason/Downloads/CSC461FinalProject/data/raw\faers_ascii_2023Q4\ASCII_2023Q4\DEMO23Q4.pdf: Error tokenizing data. C error: Expected 1 fields in line 32, saw 2
+
+2024-11-14 22:37:49,952 - ERROR - Failed to load file with both encodings: 'charmap' codec can't decode byte 0x90 in position 782: character maps to <undefined>
+2024-11-14 22:37:49,952 - ERROR - Error processing 2023Q4: 'charmap' codec can't decode byte 0x90 in position 782: character maps to <undefined>
+2024-11-14 22:37:49,952 - INFO - Processing quarter: 2024Q1
+2024-11-14 22:37:49,955 - ERROR - Error loading demographics file C:/Users/Eason/Downloads/CSC461FinalProject/data/raw\faers_ascii_2024Q1\ASCII_2024Q1\DEMO24Q1.pdf: Error tokenizing data. C error: Expected 1 fields in line 30, saw 2
+
+2024-11-14 22:37:49,956 - ERROR - Failed to load file with both encodings: 'charmap' codec can't decode byte 0x90 in position 782: character maps to <undefined>
+2024-11-14 22:37:49,956 - ERROR - Error processing 2024Q1: 'charmap' codec can't decode byte 0x90 in position 782: character maps to <undefined>
+2024-11-14 22:37:49,956 - INFO - Processing quarter: 2024Q2
+2024-11-14 22:37:49,960 - ERROR - Error loading demographics file C:/Users/Eason/Downloads/CSC461FinalProject/data/raw\faers_ascii_2024Q2\ASCII_2024Q2\DEMO24Q2.pdf: Error tokenizing data. C error: Expected 1 fields in line 48, saw 2
+
+2024-11-14 22:37:49,961 - ERROR - Failed to load file with both encodings: 'charmap' codec can't decode byte 0x90 in position 782: character maps to <undefined>
+2024-11-14 22:37:49,961 - ERROR - Error processing 2024Q2: 'charmap' codec can't decode byte 0x90 in position 782: character maps to <undefined>
+2024-11-14 22:37:49,961 - INFO - Processing quarter: 2024Q3
+2024-11-14 22:37:49,965 - ERROR - Error loading demographics file C:/Users/Eason/Downloads/CSC461FinalProject/data/raw\faers_ascii_2024Q3\ASCII_2024Q3\DEMO24Q3.pdf: Error tokenizing data. C error: Expected 1 fields in line 29, saw 2
+
+2024-11-14 22:37:49,965 - ERROR - Failed to load file with both encodings: 'charmap' codec can't decode byte 0x90 in position 782: character maps to <undefined>
+2024-11-14 22:37:49,966 - ERROR - Error processing 2024Q3: 'charmap' codec can't decode byte 0x90 in position 782: character maps to <undefined>
+2024-11-14 22:37:49,966 - INFO - Concatenating quarterly data...
+2024-11-14 22:37:50,312 - INFO - Merging datasets...
+2024-11-14 22:42:02,651 - INFO - Starting FAERS data processing
+2024-11-14 22:42:02,651 - INFO - Processing quarter: 2021Q1
+2024-11-14 22:42:10,133 - INFO - Successfully processed 2021Q1
+2024-11-14 22:42:10,133 - INFO - Processing quarter: 2021Q2
+2024-11-14 22:42:17,724 - INFO - Successfully processed 2021Q2
+2024-11-14 22:42:17,724 - INFO - Processing quarter: 2022Q3
+2024-11-14 22:42:18,090 - ERROR - Failed to load file with all encodings: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+2024-11-14 22:42:18,090 - ERROR - Error processing 2022Q3: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+2024-11-14 22:42:18,090 - INFO - Processing quarter: 2022Q4
+2024-11-14 22:42:18,266 - ERROR - Failed to load file with all encodings: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+2024-11-14 22:42:18,266 - ERROR - Error processing 2022Q4: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+2024-11-14 22:42:18,266 - INFO - Processing quarter: 2023Q1
+2024-11-14 22:42:18,696 - ERROR - Failed to load file with all encodings: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+2024-11-14 22:42:18,696 - ERROR - Error processing 2023Q1: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+2024-11-14 22:42:18,696 - INFO - Processing quarter: 2023Q2
+2024-11-14 22:42:18,722 - ERROR - Failed to load file with all encodings: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+2024-11-14 22:42:18,722 - ERROR - Error processing 2023Q2: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+2024-11-14 22:42:18,722 - INFO - Processing quarter: 2023Q3
+2024-11-14 22:42:18,773 - ERROR - Failed to load file with all encodings: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+2024-11-14 22:42:18,773 - ERROR - Error processing 2023Q3: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+2024-11-14 22:42:18,774 - INFO - Processing quarter: 2023Q4
+2024-11-14 22:42:18,829 - ERROR - Failed to load file with all encodings: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+2024-11-14 22:42:18,829 - ERROR - Error processing 2023Q4: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+2024-11-14 22:42:18,829 - INFO - Processing quarter: 2024Q1
+2024-11-14 22:42:18,854 - ERROR - Failed to load file with all encodings: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+2024-11-14 22:42:18,854 - ERROR - Error processing 2024Q1: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+2024-11-14 22:42:18,854 - INFO - Processing quarter: 2024Q2
+2024-11-14 22:42:19,033 - ERROR - Failed to load file with all encodings: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+2024-11-14 22:42:19,033 - ERROR - Error processing 2024Q2: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+2024-11-14 22:42:19,033 - INFO - Processing quarter: 2024Q3
+2024-11-14 22:42:19,588 - ERROR - Failed to load file with all encodings: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+2024-11-14 22:42:19,588 - ERROR - Error processing 2024Q3: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+2024-11-14 22:42:19,589 - INFO - Concatenating quarterly data...
+2024-11-14 22:42:19,987 - INFO - Merging datasets...
+2024-11-14 22:50:40,724 - INFO - Starting FAERS data processing
+2024-11-14 22:50:40,725 - INFO - Processing quarter: 2021Q1
+2024-11-14 22:50:47,987 - INFO - Successfully processed 2021Q1
+2024-11-14 22:50:47,987 - INFO - Processing quarter: 2021Q2
+2024-11-14 22:50:55,543 - INFO - Successfully processed 2021Q2
+2024-11-14 22:50:55,543 - INFO - Processing quarter: 2022Q3
+2024-11-14 22:50:55,919 - ERROR - Failed to load file with all encodings: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+2024-11-14 22:50:55,919 - ERROR - Error processing 2022Q3: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+2024-11-14 22:50:55,919 - INFO - Processing quarter: 2022Q4
+2024-11-14 22:50:56,088 - ERROR - Failed to load file with all encodings: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+2024-11-14 22:50:56,088 - ERROR - Error processing 2022Q4: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+2024-11-14 22:50:56,088 - INFO - Processing quarter: 2023Q1
+2024-11-14 22:50:56,517 - ERROR - Failed to load file with all encodings: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+2024-11-14 22:50:56,517 - ERROR - Error processing 2023Q1: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+2024-11-14 22:50:56,517 - INFO - Processing quarter: 2023Q2
+2024-11-14 22:50:56,541 - ERROR - Failed to load file with all encodings: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+2024-11-14 22:50:56,541 - ERROR - Error processing 2023Q2: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+2024-11-14 22:50:56,542 - INFO - Processing quarter: 2023Q3
+2024-11-14 22:50:56,569 - ERROR - Failed to load file with all encodings: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+2024-11-14 22:50:56,570 - ERROR - Error processing 2023Q3: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+2024-11-14 22:50:56,570 - INFO - Processing quarter: 2023Q4
+2024-11-14 22:50:56,620 - ERROR - Failed to load file with all encodings: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+2024-11-14 22:50:56,620 - ERROR - Error processing 2023Q4: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+2024-11-14 22:50:56,621 - INFO - Processing quarter: 2024Q1
+2024-11-14 22:50:56,646 - ERROR - Failed to load file with all encodings: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+2024-11-14 22:50:56,646 - ERROR - Error processing 2024Q1: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+2024-11-14 22:50:56,647 - INFO - Processing quarter: 2024Q2
+2024-11-14 22:50:56,832 - ERROR - Failed to load file with all encodings: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+2024-11-14 22:50:56,832 - ERROR - Error processing 2024Q2: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+2024-11-14 22:50:56,832 - INFO - Processing quarter: 2024Q3
+2024-11-14 22:50:57,397 - ERROR - Failed to load file with all encodings: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+2024-11-14 22:50:57,398 - ERROR - Error processing 2024Q3: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.
+
+2024-11-14 22:50:57,398 - INFO - Concatenating quarterly data...
+2024-11-14 22:50:57,793 - INFO - Merging datasets...
+2024-11-16 18:26:19,800 - INFO - Analysis for 2021Q1: {
+  "quarter": "2021Q1",
+  "file_sizes": {
+    "DEMO21Q1.txt": "64.10 MB",
+    "DRUG21Q1.txt": "205.89 MB",
+    "REAC21Q1.txt": "55.19 MB",
+    "OUTC21Q1.txt": "8.16 MB"
+  },
+  "row_counts": {
+    "DEMO21Q1.txt": 463741,
+    "DRUG21Q1.txt": 2208416,
+    "REAC21Q1.txt": 1505167,
+    "OUTC21Q1.txt": 371698
+  },
+  "memory_usage": {
+    "DEMO21Q1.txt": "0.73 MB",
+    "DRUG21Q1.txt": "0.59 MB",
+    "REAC21Q1.txt": "0.09 MB",
+    "OUTC21Q1.txt": "0.06 MB"
+  },
+  "missing_percentages": {
+    "DEMO21Q1.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "caseversion": 0.0,
+      "i_f_code": 0.0,
+      "event_dt": 0.288,
+      "mfr_dt": 0.0,
+      "init_fda_dt": 0.0,
+      "fda_dt": 0.0,
+      "rept_cod": 0.0,
+      "auth_num": 0.995,
+      "mfr_num": 0.0,
+      "mfr_sndr": 0.0,
+      "lit_ref": 0.953,
+      "age": 0.142,
+      "age_cod": 0.142,
+      "age_grp": 0.793,
+      "sex": 0.043,
+      "e_sub": 0.0,
+      "wt": 0.596,
+      "wt_cod": 0.596,
+      "rept_dt": 0.0,
+      "to_mfr": 1.0,
+      "occp_cod": 0.002,
+      "reporter_country": 0.0,
+      "occr_country": 0.0
+    },
+    "DRUG21Q1.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "drug_seq": 0.0,
+      "role_cod": 0.0,
+      "drugname": 0.0,
+      "prod_ai": 0.015,
+      "val_vbm": 0.0,
+      "route": 0.276,
+      "dose_vbm": 0.369,
+      "cum_dose_chr": 0.944,
+      "cum_dose_unit": 0.944,
+      "dechal": 0.398,
+      "rechal": 0.933,
+      "lot_num": 0.766,
+      "exp_dt": 1.0,
+      "nda_num": 0.644,
+      "dose_amt": 0.445,
+      "dose_unit": 0.445,
+      "dose_form": 0.633,
+      "dose_freq": 0.639
+    },
+    "REAC21Q1.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "pt": 0.0,
+      "drug_rec_act": 1.0
+    },
+    "OUTC21Q1.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "outc_cod": 0.0
+    }
+  }
+}
+2024-11-16 18:26:41,360 - INFO - Analysis for 2021Q2: {
+  "quarter": "2021Q2",
+  "file_sizes": {
+    "DEMO21Q2.txt": "64.81 MB",
+    "DRUG21Q2.txt": "216.15 MB",
+    "REAC21Q2.txt": "55.88 MB",
+    "OUTC21Q2.txt": "8.43 MB"
+  },
+  "row_counts": {
+    "DEMO21Q2.txt": 479945,
+    "DRUG21Q2.txt": 2291903,
+    "REAC21Q2.txt": 1526544,
+    "OUTC21Q2.txt": 383928
+  },
+  "memory_usage": {
+    "DEMO21Q2.txt": "0.74 MB",
+    "DRUG21Q2.txt": "0.58 MB",
+    "REAC21Q2.txt": "0.11 MB",
+    "OUTC21Q2.txt": "0.06 MB"
+  },
+  "missing_percentages": {
+    "DEMO21Q2.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "caseversion": 0.0,
+      "i_f_code": 0.0,
+      "event_dt": 0.34,
+      "mfr_dt": 0.0,
+      "init_fda_dt": 0.0,
+      "fda_dt": 0.0,
+      "rept_cod": 0.0,
+      "auth_num": 0.991,
+      "mfr_num": 0.0,
+      "mfr_sndr": 0.0,
+      "lit_ref": 0.933,
+      "age": 0.157,
+      "age_cod": 0.157,
+      "age_grp": 0.822,
+      "sex": 0.037,
+      "e_sub": 0.0,
+      "wt": 0.648,
+      "wt_cod": 0.648,
+      "rept_dt": 0.0,
+      "to_mfr": 1.0,
+      "occp_cod": 0.007,
+      "reporter_country": 0.0,
+      "occr_country": 0.0
+    },
+    "DRUG21Q2.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "drug_seq": 0.0,
+      "role_cod": 0.0,
+      "drugname": 0.0,
+      "prod_ai": 0.007,
+      "val_vbm": 0.0,
+      "route": 0.207,
+      "dose_vbm": 0.471,
+      "cum_dose_chr": 0.995,
+      "cum_dose_unit": 0.995,
+      "dechal": 0.355,
+      "rechal": 0.916,
+      "lot_num": 0.614,
+      "exp_dt": 1.0,
+      "nda_num": 0.553,
+      "dose_amt": 0.585,
+      "dose_unit": 0.585,
+      "dose_form": 0.744,
+      "dose_freq": 0.746
+    },
+    "REAC21Q2.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "pt": 0.0,
+      "drug_rec_act": 0.999
+    },
+    "OUTC21Q2.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "outc_cod": 0.0
+    }
+  }
+}
+2024-11-16 18:27:03,839 - INFO - Analysis for 2021Q3: {
+  "quarter": "2021Q3",
+  "file_sizes": {
+    "DEMO21Q3.txt": "67.69 MB",
+    "DRUG21Q3.txt": "213.66 MB",
+    "REAC21Q3.txt": "56.70 MB",
+    "OUTC21Q3.txt": "9.23 MB"
+  },
+  "row_counts": {
+    "DEMO21Q3.txt": 504160,
+    "DRUG21Q3.txt": 2260570,
+    "REAC21Q3.txt": 1544374,
+    "OUTC21Q3.txt": 420729
+  },
+  "memory_usage": {
+    "DEMO21Q3.txt": "0.74 MB",
+    "DRUG21Q3.txt": "0.58 MB",
+    "REAC21Q3.txt": "0.11 MB",
+    "OUTC21Q3.txt": "0.06 MB"
+  },
+  "missing_percentages": {
+    "DEMO21Q3.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "caseversion": 0.0,
+      "i_f_code": 0.0,
+      "event_dt": 0.285,
+      "mfr_dt": 0.0,
+      "init_fda_dt": 0.0,
+      "fda_dt": 0.0,
+      "rept_cod": 0.0,
+      "auth_num": 0.983,
+      "mfr_num": 0.0,
+      "mfr_sndr": 0.0,
+      "lit_ref": 0.925,
+      "age": 0.186,
+      "age_cod": 0.186,
+      "age_grp": 0.899,
+      "sex": 0.04,
+      "e_sub": 0.0,
+      "wt": 0.601,
+      "wt_cod": 0.601,
+      "rept_dt": 0.0,
+      "to_mfr": 1.0,
+      "occp_cod": 0.005,
+      "reporter_country": 0.0,
+      "occr_country": 0.0
+    },
+    "DRUG21Q3.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "drug_seq": 0.0,
+      "role_cod": 0.0,
+      "drugname": 0.0,
+      "prod_ai": 0.004,
+      "val_vbm": 0.0,
+      "route": 0.272,
+      "dose_vbm": 0.485,
+      "cum_dose_chr": 0.973,
+      "cum_dose_unit": 0.973,
+      "dechal": 0.436,
+      "rechal": 0.884,
+      "lot_num": 0.706,
+      "exp_dt": 1.0,
+      "nda_num": 0.59,
+      "dose_amt": 0.488,
+      "dose_unit": 0.488,
+      "dose_form": 0.744,
+      "dose_freq": 0.68
+    },
+    "REAC21Q3.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "pt": 0.0,
+      "drug_rec_act": 0.998
+    },
+    "OUTC21Q3.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "outc_cod": 0.0
+    }
+  }
+}
+2024-11-16 18:27:27,029 - INFO - Analysis for 2021Q4: {
+  "quarter": "2021Q4",
+  "file_sizes": {
+    "DEMO21Q4.txt": "56.96 MB",
+    "DRUG21Q4.txt": "166.08 MB",
+    "REAC21Q4.txt": "48.45 MB",
+    "OUTC21Q4.txt": "7.08 MB"
+  },
+  "row_counts": {
+    "DEMO21Q4.txt": 412542,
+    "DRUG21Q4.txt": 1778675,
+    "REAC21Q4.txt": 1355734,
+    "OUTC21Q4.txt": 337168
+  },
+  "memory_usage": {
+    "DEMO21Q4.txt": "0.74 MB",
+    "DRUG21Q4.txt": "0.60 MB",
+    "REAC21Q4.txt": "0.09 MB",
+    "OUTC21Q4.txt": "0.06 MB"
+  },
+  "missing_percentages": {
+    "DEMO21Q4.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "caseversion": 0.0,
+      "i_f_code": 0.0,
+      "event_dt": 0.332,
+      "mfr_dt": 0.0,
+      "init_fda_dt": 0.0,
+      "fda_dt": 0.0,
+      "rept_cod": 0.0,
+      "auth_num": 0.981,
+      "mfr_num": 0.0,
+      "mfr_sndr": 0.0,
+      "lit_ref": 0.879,
+      "age": 0.272,
+      "age_cod": 0.272,
+      "age_grp": 0.899,
+      "sex": 0.057,
+      "e_sub": 0.0,
+      "wt": 0.649,
+      "wt_cod": 0.649,
+      "rept_dt": 0.0,
+      "to_mfr": 1.0,
+      "occp_cod": 0.0,
+      "reporter_country": 0.0,
+      "occr_country": 0.069
+    },
+    "DRUG21Q4.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "drug_seq": 0.0,
+      "role_cod": 0.0,
+      "drugname": 0.0,
+      "prod_ai": 0.013,
+      "val_vbm": 0.0,
+      "route": 0.215,
+      "dose_vbm": 0.327,
+      "cum_dose_chr": 0.989,
+      "cum_dose_unit": 0.989,
+      "dechal": 0.339,
+      "rechal": 0.891,
+      "lot_num": 0.709,
+      "exp_dt": 1.0,
+      "nda_num": 0.636,
+      "dose_amt": 0.503,
+      "dose_unit": 0.503,
+      "dose_form": 0.537,
+      "dose_freq": 0.697
+    },
+    "REAC21Q4.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "pt": 0.0,
+      "drug_rec_act": 1.0
+    },
+    "OUTC21Q4.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "outc_cod": 0.0
+    }
+  }
+}
+2024-11-16 18:27:45,612 - INFO - Analysis for 2022Q1: {
+  "quarter": "2022Q1",
+  "file_sizes": {
+    "DEMO22Q1.txt": "63.83 MB",
+    "DRUG22Q1.txt": "187.56 MB",
+    "REAC22Q1.txt": "54.97 MB",
+    "OUTC22Q1.txt": "7.88 MB"
+  },
+  "row_counts": {
+    "DEMO22Q1.txt": 461623,
+    "DRUG22Q1.txt": 1994171,
+    "REAC22Q1.txt": 1543059,
+    "OUTC22Q1.txt": 375497
+  },
+  "memory_usage": {
+    "DEMO22Q1.txt": "0.74 MB",
+    "DRUG22Q1.txt": "0.60 MB",
+    "REAC22Q1.txt": "0.09 MB",
+    "OUTC22Q1.txt": "0.06 MB"
+  },
+  "missing_percentages": {
+    "DEMO22Q1.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "caseversion": 0.0,
+      "i_f_code": 0.0,
+      "event_dt": 0.284,
+      "mfr_dt": 0.0,
+      "init_fda_dt": 0.0,
+      "fda_dt": 0.0,
+      "rept_cod": 0.0,
+      "auth_num": 0.983,
+      "mfr_num": 0.0,
+      "mfr_sndr": 0.0,
+      "lit_ref": 0.912,
+      "age": 0.232,
+      "age_cod": 0.232,
+      "age_grp": 0.86,
+      "sex": 0.031,
+      "e_sub": 0.0,
+      "wt": 0.662,
+      "wt_cod": 0.662,
+      "rept_dt": 0.0,
+      "to_mfr": 1.0,
+      "occp_cod": 0.001,
+      "reporter_country": 0.0,
+      "occr_country": 0.103
+    },
+    "DRUG22Q1.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "drug_seq": 0.0,
+      "role_cod": 0.0,
+      "drugname": 0.0,
+      "prod_ai": 0.008,
+      "val_vbm": 0.0,
+      "route": 0.22,
+      "dose_vbm": 0.446,
+      "cum_dose_chr": 0.967,
+      "cum_dose_unit": 0.967,
+      "dechal": 0.382,
+      "rechal": 0.888,
+      "lot_num": 0.646,
+      "exp_dt": 1.0,
+      "nda_num": 0.543,
+      "dose_amt": 0.585,
+      "dose_unit": 0.585,
+      "dose_form": 0.508,
+      "dose_freq": 0.745
+    },
+    "REAC22Q1.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "pt": 0.0,
+      "drug_rec_act": 1.0
+    },
+    "OUTC22Q1.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "outc_cod": 0.0
+    }
+  }
+}
+2024-11-16 18:28:05,816 - INFO - Analysis for 2022Q2: {
+  "quarter": "2022Q2",
+  "file_sizes": {
+    "DEMO22Q2.txt": "59.94 MB",
+    "DRUG22Q2.txt": "173.10 MB",
+    "REAC22Q2.txt": "52.42 MB",
+    "OUTC22Q2.txt": "6.83 MB"
+  },
+  "row_counts": {
+    "DEMO22Q2.txt": 435618,
+    "DRUG22Q2.txt": 1828103,
+    "REAC22Q2.txt": 1464627,
+    "OUTC22Q2.txt": 325309
+  },
+  "memory_usage": {
+    "DEMO22Q2.txt": "0.73 MB",
+    "DRUG22Q2.txt": "0.59 MB",
+    "REAC22Q2.txt": "0.09 MB",
+    "OUTC22Q2.txt": "0.06 MB"
+  },
+  "missing_percentages": {
+    "DEMO22Q2.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "caseversion": 0.0,
+      "i_f_code": 0.0,
+      "event_dt": 0.313,
+      "mfr_dt": 0.0,
+      "init_fda_dt": 0.0,
+      "fda_dt": 0.0,
+      "rept_cod": 0.0,
+      "auth_num": 0.987,
+      "mfr_num": 0.0,
+      "mfr_sndr": 0.0,
+      "lit_ref": 0.941,
+      "age": 0.238,
+      "age_cod": 0.238,
+      "age_grp": 0.823,
+      "sex": 0.077,
+      "e_sub": 0.0,
+      "wt": 0.675,
+      "wt_cod": 0.675,
+      "rept_dt": 0.0,
+      "to_mfr": 1.0,
+      "occp_cod": 0.001,
+      "reporter_country": 0.0,
+      "occr_country": 0.087
+    },
+    "DRUG22Q2.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "drug_seq": 0.0,
+      "role_cod": 0.0,
+      "drugname": 0.0,
+      "prod_ai": 0.012,
+      "val_vbm": 0.0,
+      "route": 0.224,
+      "dose_vbm": 0.454,
+      "cum_dose_chr": 0.993,
+      "cum_dose_unit": 0.993,
+      "dechal": 0.332,
+      "rechal": 0.95,
+      "lot_num": 0.672,
+      "exp_dt": 1.0,
+      "nda_num": 0.646,
+      "dose_amt": 0.544,
+      "dose_unit": 0.544,
+      "dose_form": 0.469,
+      "dose_freq": 0.721
+    },
+    "REAC22Q2.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "pt": 0.0,
+      "drug_rec_act": 1.0
+    },
+    "OUTC22Q2.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "outc_cod": 0.0
+    }
+  }
+}
+2024-11-16 18:28:24,075 - INFO - Analysis for 2022Q3: {
+  "quarter": "2022Q3",
+  "file_sizes": {
+    "DEMO22Q3.txt": "61.07 MB",
+    "DRUG22Q3.txt": "173.30 MB",
+    "REAC22Q3.txt": "52.04 MB",
+    "OUTC22Q3.txt": "7.26 MB"
+  },
+  "row_counts": {
+    "DEMO22Q3.txt": 446511,
+    "DRUG22Q3.txt": 1835461,
+    "REAC22Q3.txt": 1449509,
+    "OUTC22Q3.txt": 345763
+  },
+  "memory_usage": {
+    "DEMO22Q3.txt": "0.74 MB",
+    "DRUG22Q3.txt": "0.60 MB",
+    "REAC22Q3.txt": "0.08 MB",
+    "OUTC22Q3.txt": "0.06 MB"
+  },
+  "missing_percentages": {
+    "DEMO22Q3.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "caseversion": 0.0,
+      "i_f_code": 0.0,
+      "event_dt": 0.265,
+      "mfr_dt": 0.0,
+      "init_fda_dt": 0.0,
+      "fda_dt": 0.0,
+      "rept_cod": 0.0,
+      "auth_num": 0.975,
+      "mfr_num": 0.0,
+      "mfr_sndr": 0.0,
+      "lit_ref": 0.918,
+      "age": 0.262,
+      "age_cod": 0.262,
+      "age_grp": 0.762,
+      "sex": 0.086,
+      "e_sub": 0.0,
+      "wt": 0.713,
+      "wt_cod": 0.713,
+      "rept_dt": 0.0,
+      "to_mfr": 1.0,
+      "occp_cod": 0.001,
+      "reporter_country": 0.0,
+      "occr_country": 0.071
+    },
+    "DRUG22Q3.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "drug_seq": 0.0,
+      "role_cod": 0.0,
+      "drugname": 0.0,
+      "prod_ai": 0.01,
+      "val_vbm": 0.0,
+      "route": 0.283,
+      "dose_vbm": 0.457,
+      "cum_dose_chr": 0.966,
+      "cum_dose_unit": 0.966,
+      "dechal": 0.448,
+      "rechal": 0.875,
+      "lot_num": 0.591,
+      "exp_dt": 1.0,
+      "nda_num": 0.539,
+      "dose_amt": 0.555,
+      "dose_unit": 0.555,
+      "dose_form": 0.499,
+      "dose_freq": 0.663
+    },
+    "REAC22Q3.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "pt": 0.0,
+      "drug_rec_act": 1.0
+    },
+    "OUTC22Q3.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "outc_cod": 0.0
+    }
+  }
+}
+2024-11-16 18:28:43,241 - INFO - Analysis for 2022Q4: {
+  "quarter": "2022Q4",
+  "file_sizes": {
+    "DEMO22Q4.txt": "65.40 MB",
+    "DRUG22Q4.txt": "193.94 MB",
+    "REAC22Q4.txt": "57.61 MB",
+    "OUTC22Q4.txt": "7.03 MB"
+  },
+  "row_counts": {
+    "DEMO22Q4.txt": 483643,
+    "DRUG22Q4.txt": 2006967,
+    "REAC22Q4.txt": 1617584,
+    "OUTC22Q4.txt": 334611
+  },
+  "memory_usage": {
+    "DEMO22Q4.txt": "0.73 MB",
+    "DRUG22Q4.txt": "0.59 MB",
+    "REAC22Q4.txt": "0.09 MB",
+    "OUTC22Q4.txt": "0.06 MB"
+  },
+  "missing_percentages": {
+    "DEMO22Q4.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "caseversion": 0.0,
+      "i_f_code": 0.0,
+      "event_dt": 0.275,
+      "mfr_dt": 0.0,
+      "init_fda_dt": 0.0,
+      "fda_dt": 0.0,
+      "rept_cod": 0.0,
+      "auth_num": 0.974,
+      "mfr_num": 0.0,
+      "mfr_sndr": 0.0,
+      "lit_ref": 0.951,
+      "age": 0.247,
+      "age_cod": 0.247,
+      "age_grp": 0.753,
+      "sex": 0.058,
+      "e_sub": 0.0,
+      "wt": 0.712,
+      "wt_cod": 0.712,
+      "rept_dt": 0.0,
+      "to_mfr": 1.0,
+      "occp_cod": 0.0,
+      "reporter_country": 0.0,
+      "occr_country": 0.087
+    },
+    "DRUG22Q4.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "drug_seq": 0.0,
+      "role_cod": 0.0,
+      "drugname": 0.0,
+      "prod_ai": 0.006,
+      "val_vbm": 0.0,
+      "route": 0.255,
+      "dose_vbm": 0.519,
+      "cum_dose_chr": 0.988,
+      "cum_dose_unit": 0.988,
+      "dechal": 0.528,
+      "rechal": 0.924,
+      "lot_num": 0.624,
+      "exp_dt": 1.0,
+      "nda_num": 0.608,
+      "dose_amt": 0.554,
+      "dose_unit": 0.554,
+      "dose_form": 0.502,
+      "dose_freq": 0.729
+    },
+    "REAC22Q4.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "pt": 0.0,
+      "drug_rec_act": 1.0
+    },
+    "OUTC22Q4.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "outc_cod": 0.0
+    }
+  }
+}
+2024-11-16 18:29:03,366 - INFO - Analysis for 2023Q1: {
+  "quarter": "2023Q1",
+  "file_sizes": {
+    "DEMO23Q1.txt": "59.77 MB",
+    "DRUG23Q1.txt": "181.96 MB",
+    "REAC23Q1.txt": "53.42 MB",
+    "OUTC23Q1.txt": "6.50 MB"
+  },
+  "row_counts": {
+    "DEMO23Q1.txt": 432144,
+    "DRUG23Q1.txt": 1899503,
+    "REAC23Q1.txt": 1491473,
+    "OUTC23Q1.txt": 309217
+  },
+  "memory_usage": {
+    "DEMO23Q1.txt": "0.73 MB",
+    "DRUG23Q1.txt": "0.60 MB",
+    "REAC23Q1.txt": "0.08 MB",
+    "OUTC23Q1.txt": "0.06 MB"
+  },
+  "missing_percentages": {
+    "DEMO23Q1.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "caseversion": 0.0,
+      "i_f_code": 0.0,
+      "event_dt": 0.255,
+      "mfr_dt": 0.0,
+      "init_fda_dt": 0.0,
+      "fda_dt": 0.0,
+      "rept_cod": 0.0,
+      "auth_num": 0.986,
+      "mfr_num": 0.0,
+      "mfr_sndr": 0.0,
+      "lit_ref": 0.943,
+      "age": 0.268,
+      "age_cod": 0.268,
+      "age_grp": 0.797,
+      "sex": 0.045,
+      "e_sub": 0.0,
+      "wt": 0.714,
+      "wt_cod": 0.714,
+      "rept_dt": 0.0,
+      "to_mfr": 1.0,
+      "occp_cod": 0.0,
+      "reporter_country": 0.0,
+      "occr_country": 0.066
+    },
+    "DRUG23Q1.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "drug_seq": 0.0,
+      "role_cod": 0.0,
+      "drugname": 0.0,
+      "prod_ai": 0.007,
+      "val_vbm": 0.0,
+      "route": 0.236,
+      "dose_vbm": 0.577,
+      "cum_dose_chr": 0.985,
+      "cum_dose_unit": 0.985,
+      "dechal": 0.414,
+      "rechal": 0.946,
+      "lot_num": 0.565,
+      "exp_dt": 1.0,
+      "nda_num": 0.436,
+      "dose_amt": 0.529,
+      "dose_unit": 0.529,
+      "dose_form": 0.45,
+      "dose_freq": 0.753
+    },
+    "REAC23Q1.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "pt": 0.0,
+      "drug_rec_act": 1.0
+    },
+    "OUTC23Q1.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "outc_cod": 0.0
+    }
+  }
+}
+2024-11-16 18:29:21,436 - INFO - Analysis for 2023Q2: {
+  "quarter": "2023Q2",
+  "file_sizes": {
+    "DEMO23Q2.txt": "57.98 MB",
+    "DRUG23Q2.txt": "181.43 MB",
+    "REAC23Q2.txt": "53.04 MB",
+    "OUTC23Q2.txt": "6.38 MB"
+  },
+  "row_counts": {
+    "DEMO23Q2.txt": 418592,
+    "DRUG23Q2.txt": 1885096,
+    "REAC23Q2.txt": 1478973,
+    "OUTC23Q2.txt": 303513
+  },
+  "memory_usage": {
+    "DEMO23Q2.txt": "0.73 MB",
+    "DRUG23Q2.txt": "0.59 MB",
+    "REAC23Q2.txt": "0.09 MB",
+    "OUTC23Q2.txt": "0.06 MB"
+  },
+  "missing_percentages": {
+    "DEMO23Q2.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "caseversion": 0.0,
+      "i_f_code": 0.0,
+      "event_dt": 0.27,
+      "mfr_dt": 0.0,
+      "init_fda_dt": 0.0,
+      "fda_dt": 0.0,
+      "rept_cod": 0.0,
+      "auth_num": 0.985,
+      "mfr_num": 0.0,
+      "mfr_sndr": 0.0,
+      "lit_ref": 0.925,
+      "age": 0.296,
+      "age_cod": 0.296,
+      "age_grp": 0.831,
+      "sex": 0.052,
+      "e_sub": 0.0,
+      "wt": 0.763,
+      "wt_cod": 0.763,
+      "rept_dt": 0.0,
+      "to_mfr": 1.0,
+      "occp_cod": 0.002,
+      "reporter_country": 0.0,
+      "occr_country": 0.061
+    },
+    "DRUG23Q2.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "drug_seq": 0.0,
+      "role_cod": 0.0,
+      "drugname": 0.0,
+      "prod_ai": 0.007,
+      "val_vbm": 0.0,
+      "route": 0.146,
+      "dose_vbm": 0.499,
+      "cum_dose_chr": 0.983,
+      "cum_dose_unit": 0.983,
+      "dechal": 0.466,
+      "rechal": 0.943,
+      "lot_num": 0.704,
+      "exp_dt": 1.0,
+      "nda_num": 0.634,
+      "dose_amt": 0.678,
+      "dose_unit": 0.678,
+      "dose_form": 0.474,
+      "dose_freq": 0.851
+    },
+    "REAC23Q2.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "pt": 0.0,
+      "drug_rec_act": 1.0
+    },
+    "OUTC23Q2.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "outc_cod": 0.0
+    }
+  }
+}
+2024-11-16 18:29:39,458 - INFO - Analysis for 2023Q3: {
+  "quarter": "2023Q3",
+  "file_sizes": {
+    "DEMO23Q3.txt": "55.98 MB",
+    "DRUG23Q3.txt": "170.55 MB",
+    "REAC23Q3.txt": "49.13 MB",
+    "OUTC23Q3.txt": "6.46 MB"
+  },
+  "row_counts": {
+    "DEMO23Q3.txt": 407522,
+    "DRUG23Q3.txt": 1768391,
+    "REAC23Q3.txt": 1373338,
+    "OUTC23Q3.txt": 307396
+  },
+  "memory_usage": {
+    "DEMO23Q3.txt": "0.74 MB",
+    "DRUG23Q3.txt": "0.60 MB",
+    "REAC23Q3.txt": "0.09 MB",
+    "OUTC23Q3.txt": "0.06 MB"
+  },
+  "missing_percentages": {
+    "DEMO23Q3.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "caseversion": 0.0,
+      "i_f_code": 0.0,
+      "event_dt": 0.321,
+      "mfr_dt": 0.0,
+      "init_fda_dt": 0.0,
+      "fda_dt": 0.0,
+      "rept_cod": 0.0,
+      "auth_num": 0.988,
+      "mfr_num": 0.0,
+      "mfr_sndr": 0.0,
+      "lit_ref": 0.914,
+      "age": 0.314,
+      "age_cod": 0.314,
+      "age_grp": 0.742,
+      "sex": 0.039,
+      "e_sub": 0.0,
+      "wt": 0.746,
+      "wt_cod": 0.746,
+      "rept_dt": 0.0,
+      "to_mfr": 1.0,
+      "occp_cod": 0.001,
+      "reporter_country": 0.0,
+      "occr_country": 0.058
+    },
+    "DRUG23Q3.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "drug_seq": 0.0,
+      "role_cod": 0.0,
+      "drugname": 0.0,
+      "prod_ai": 0.006,
+      "val_vbm": 0.0,
+      "route": 0.185,
+      "dose_vbm": 0.402,
+      "cum_dose_chr": 0.972,
+      "cum_dose_unit": 0.972,
+      "dechal": 0.394,
+      "rechal": 0.733,
+      "lot_num": 0.742,
+      "exp_dt": 1.0,
+      "nda_num": 0.587,
+      "dose_amt": 0.579,
+      "dose_unit": 0.579,
+      "dose_form": 0.445,
+      "dose_freq": 0.747
+    },
+    "REAC23Q3.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "pt": 0.0,
+      "drug_rec_act": 1.0
+    },
+    "OUTC23Q3.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "outc_cod": 0.0
+    }
+  }
+}
+2024-11-16 18:29:57,144 - INFO - Analysis for 2023Q4: {
+  "quarter": "2023Q4",
+  "file_sizes": {
+    "DEMO23Q4.txt": "57.71 MB",
+    "DRUG23Q4.txt": "186.94 MB",
+    "REAC23Q4.txt": "53.82 MB",
+    "OUTC23Q4.txt": "6.89 MB"
+  },
+  "row_counts": {
+    "DEMO23Q4.txt": 415379,
+    "DRUG23Q4.txt": 1920732,
+    "REAC23Q4.txt": 1500033,
+    "OUTC23Q4.txt": 327797
+  },
+  "memory_usage": {
+    "DEMO23Q4.txt": "0.75 MB",
+    "DRUG23Q4.txt": "0.60 MB",
+    "REAC23Q4.txt": "0.09 MB",
+    "OUTC23Q4.txt": "0.06 MB"
+  },
+  "missing_percentages": {
+    "DEMO23Q4.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "caseversion": 0.0,
+      "i_f_code": 0.0,
+      "event_dt": 0.312,
+      "mfr_dt": 0.0,
+      "init_fda_dt": 0.0,
+      "fda_dt": 0.0,
+      "rept_cod": 0.0,
+      "auth_num": 0.99,
+      "mfr_num": 0.0,
+      "mfr_sndr": 0.0,
+      "lit_ref": 0.875,
+      "age": 0.283,
+      "age_cod": 0.283,
+      "age_grp": 0.72,
+      "sex": 0.054,
+      "e_sub": 0.0,
+      "wt": 0.763,
+      "wt_cod": 0.763,
+      "rept_dt": 0.0,
+      "to_mfr": 1.0,
+      "occp_cod": 0.0,
+      "reporter_country": 0.0,
+      "occr_country": 0.05
+    },
+    "DRUG23Q4.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "drug_seq": 0.0,
+      "role_cod": 0.0,
+      "drugname": 0.0,
+      "prod_ai": 0.001,
+      "val_vbm": 0.0,
+      "route": 0.139,
+      "dose_vbm": 0.43,
+      "cum_dose_chr": 0.989,
+      "cum_dose_unit": 0.989,
+      "dechal": 0.219,
+      "rechal": 0.894,
+      "lot_num": 0.69,
+      "exp_dt": 1.0,
+      "nda_num": 0.605,
+      "dose_amt": 0.635,
+      "dose_unit": 0.635,
+      "dose_form": 0.526,
+      "dose_freq": 0.811
+    },
+    "REAC23Q4.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "pt": 0.0,
+      "drug_rec_act": 1.0
+    },
+    "OUTC23Q4.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "outc_cod": 0.0
+    }
+  }
+}
+2024-11-16 18:30:15,683 - INFO - Analysis for 2024Q1: {
+  "quarter": "2024Q1",
+  "file_sizes": {
+    "DEMO24Q1.txt": "57.38 MB",
+    "DRUG24Q1.txt": "186.83 MB",
+    "REAC24Q1.txt": "53.39 MB",
+    "OUTC24Q1.txt": "6.20 MB"
+  },
+  "row_counts": {
+    "DEMO24Q1.txt": 406184,
+    "DRUG24Q1.txt": 1909327,
+    "REAC24Q1.txt": 1445416,
+    "OUTC24Q1.txt": 295044
+  },
+  "memory_usage": {
+    "DEMO24Q1.txt": "0.77 MB",
+    "DRUG24Q1.txt": "0.60 MB",
+    "REAC24Q1.txt": "0.08 MB",
+    "OUTC24Q1.txt": "0.06 MB"
+  },
+  "missing_percentages": {
+    "DEMO24Q1.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "caseversion": 0.0,
+      "i_f_code": 0.0,
+      "event_dt": 0.401,
+      "mfr_dt": 0.0,
+      "init_fda_dt": 0.0,
+      "fda_dt": 0.0,
+      "rept_cod": 0.0,
+      "auth_num": 0.985,
+      "mfr_num": 0.0,
+      "mfr_sndr": 0.0,
+      "lit_ref": 0.799,
+      "age": 0.27,
+      "age_cod": 0.27,
+      "age_grp": 0.784,
+      "sex": 0.054,
+      "e_sub": 0.0,
+      "wt": 0.793,
+      "wt_cod": 0.793,
+      "rept_dt": 0.0,
+      "to_mfr": 1.0,
+      "occp_cod": 0.0,
+      "reporter_country": 0.0,
+      "occr_country": 0.045
+    },
+    "DRUG24Q1.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "drug_seq": 0.0,
+      "role_cod": 0.0,
+      "drugname": 0.0,
+      "prod_ai": 0.007,
+      "val_vbm": 0.0,
+      "route": 0.246,
+      "dose_vbm": 0.573,
+      "cum_dose_chr": 0.978,
+      "cum_dose_unit": 0.978,
+      "dechal": 0.455,
+      "rechal": 0.933,
+      "lot_num": 0.529,
+      "exp_dt": 1.0,
+      "nda_num": 0.483,
+      "dose_amt": 0.567,
+      "dose_unit": 0.567,
+      "dose_form": 0.482,
+      "dose_freq": 0.747
+    },
+    "REAC24Q1.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "pt": 0.0,
+      "drug_rec_act": 1.0
+    },
+    "OUTC24Q1.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "outc_cod": 0.0
+    }
+  }
+}
+2024-11-16 18:30:33,615 - INFO - Analysis for 2024Q2: {
+  "quarter": "2024Q2",
+  "file_sizes": {
+    "DEMO24Q2.txt": "56.35 MB",
+    "DRUG24Q2.txt": "183.49 MB",
+    "REAC24Q2.txt": "52.12 MB",
+    "OUTC24Q2.txt": "6.13 MB"
+  },
+  "row_counts": {
+    "DEMO24Q2.txt": 397119,
+    "DRUG24Q2.txt": 1888937,
+    "REAC24Q2.txt": 1445044,
+    "OUTC24Q2.txt": 291572
+  },
+  "memory_usage": {
+    "DEMO24Q2.txt": "0.77 MB",
+    "DRUG24Q2.txt": "0.59 MB",
+    "REAC24Q2.txt": "0.08 MB",
+    "OUTC24Q2.txt": "0.06 MB"
+  },
+  "missing_percentages": {
+    "DEMO24Q2.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "caseversion": 0.0,
+      "i_f_code": 0.0,
+      "event_dt": 0.339,
+      "mfr_dt": 0.0,
+      "init_fda_dt": 0.0,
+      "fda_dt": 0.0,
+      "rept_cod": 0.0,
+      "auth_num": 0.963,
+      "mfr_num": 0.0,
+      "mfr_sndr": 0.0,
+      "lit_ref": 0.807,
+      "age": 0.239,
+      "age_cod": 0.239,
+      "age_grp": 0.683,
+      "sex": 0.047,
+      "e_sub": 0.0,
+      "wt": 0.762,
+      "wt_cod": 0.762,
+      "rept_dt": 0.0,
+      "to_mfr": 1.0,
+      "occp_cod": 0.0,
+      "reporter_country": 0.0,
+      "occr_country": 0.051
+    },
+    "DRUG24Q2.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "drug_seq": 0.0,
+      "role_cod": 0.0,
+      "drugname": 0.0,
+      "prod_ai": 0.01,
+      "val_vbm": 0.0,
+      "route": 0.222,
+      "dose_vbm": 0.595,
+      "cum_dose_chr": 0.982,
+      "cum_dose_unit": 0.982,
+      "dechal": 0.425,
+      "rechal": 0.855,
+      "lot_num": 0.564,
+      "exp_dt": 1.0,
+      "nda_num": 0.401,
+      "dose_amt": 0.578,
+      "dose_unit": 0.578,
+      "dose_form": 0.51,
+      "dose_freq": 0.836
+    },
+    "REAC24Q2.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "pt": 0.0,
+      "drug_rec_act": 1.0
+    },
+    "OUTC24Q2.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "outc_cod": 0.0
+    }
+  }
+}
+2024-11-16 18:30:51,329 - INFO - Analysis for 2024Q3: {
+  "quarter": "2024Q3",
+  "file_sizes": {
+    "DEMO24Q3.txt": "58.35 MB",
+    "DRUG24Q3.txt": "186.30 MB",
+    "REAC24Q3.txt": "53.07 MB",
+    "OUTC24Q3.txt": "6.33 MB"
+  },
+  "row_counts": {
+    "DEMO24Q3.txt": 405513,
+    "DRUG24Q3.txt": 1907293,
+    "REAC24Q3.txt": 1431718,
+    "OUTC24Q3.txt": 288275
+  },
+  "memory_usage": {
+    "DEMO24Q3.txt": "0.77 MB",
+    "DRUG24Q3.txt": "0.59 MB",
+    "REAC24Q3.txt": "0.09 MB",
+    "OUTC24Q3.txt": "0.06 MB"
+  },
+  "missing_percentages": {
+    "DEMO24Q3.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "caseversion": 0.0,
+      "i_f_code": 0.0,
+      "event_dt": 0.376,
+      "mfr_dt": 0.0,
+      "init_fda_dt": 0.0,
+      "fda_dt": 0.0,
+      "rept_cod": 0.0,
+      "auth_num": 0.969,
+      "mfr_num": 0.0,
+      "mfr_sndr": 0.0,
+      "lit_ref": 0.784,
+      "age": 0.22,
+      "age_cod": 0.219,
+      "age_grp": 0.685,
+      "sex": 0.059,
+      "e_sub": 0.0,
+      "wt": 0.725,
+      "wt_cod": 0.725,
+      "rept_dt": 0.0,
+      "to_mfr": 1.0,
+      "occp_cod": 0.0,
+      "reporter_country": 0.0,
+      "occr_country": 0.007
+    },
+    "DRUG24Q3.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "drug_seq": 0.0,
+      "role_cod": 0.0,
+      "drugname": 0.0,
+      "prod_ai": 0.007,
+      "val_vbm": 0.0,
+      "route": 0.127,
+      "dose_vbm": 0.61,
+      "cum_dose_chr": 0.953,
+      "cum_dose_unit": 0.953,
+      "dechal": 0.356,
+      "rechal": 0.947,
+      "lot_num": 0.404,
+      "exp_dt": 1.0,
+      "nda_num": 0.418,
+      "dose_amt": 0.695,
+      "dose_unit": 0.695,
+      "dose_form": 0.537,
+      "dose_freq": 0.827
+    },
+    "REAC24Q3.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "pt": 0.0,
+      "drug_rec_act": 1.0
+    },
+    "OUTC24Q3.txt": {
+      "primaryid": 0.0,
+      "caseid": 0.0,
+      "outc_cod": 0.0
+    }
+  }
+}
