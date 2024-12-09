@@ -28,6 +28,22 @@ nhanesdemo_df.rename(columns={
     'RIDRETH3': 'ethnicity_detailed'
 }, inplace=True)
 
+# Define function to convert age to age groups
+def convert_to_age_group(age):
+    if age < 18:
+        return 'Child'
+    elif 18 <= age <= 44:
+        return 'Young Adult'
+    elif 45 <= age <= 64:
+        return 'Middle Aged'
+    else:
+        return 'Elderly'
+
+# Apply age group conversion
+nhanesdemo_df['age_group'] = nhanesdemo_df['age'].apply(convert_to_age_group)
+nhanesdemo_df.drop(columns=['age'], inplace=True)
+
+
 # Apply filter to include only Asian/Pacific Islander participants
 asian_ethnicities = [6]  # Assuming '6' corresponds to 'Non-Hispanic Asian' in RIDRETH3
 nhanesdemo_df = nhanesdemo_df[nhanesdemo_df['ethnicity_detailed'].isin(asian_ethnicities)]
@@ -102,9 +118,6 @@ merged_df['num_presc_taken'] = merged_df['num_presc_taken'].fillna('None')
 
 # Filter out rows where `num_presc_taken` is 'None'
 merged_df = merged_df[merged_df['num_presc_taken'] != 'None']
-
-#Turn age to integer
-merged_df['age'] = merged_df['age'].astype(int)
 
 #Ethnicity mapping
 ethnicity_mapping = {
