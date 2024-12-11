@@ -125,7 +125,7 @@ nhanes_df.to_csv(output_path, index=False)
 print(f"\nEnriched NHANES dataset saved to {output_path}")
 
 
-def add_noise(df, noise_level=0.05):
+def add_noise(df, noise_level=0.10):
     noisy_df = df.copy()
     numeric_features = ['health_score_normalized', 'ade_likelihood_normalized', 'avg_drug_risk_normalized', 'weighted_avg_drug_risk']
     
